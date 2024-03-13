@@ -53,14 +53,7 @@ async function getPRDetails() {
 <div class="discussion-sidebar-heading text-bold">Actions</div>
 <div class="d-flex" style="flex-direction: column;">
 	<a href="${filesURL + "catppuccin.user.css"}">Install with Stylus</a>
-	<p style="padding-top: 1rem;">Preview Images:</p>
-	<ul style="padding-left: 1rem;">
-		<li><a href="${filesURL + "assets/latte.webp"}">Latte</a></li>
-		<li><a href="${filesURL + "assets/frappe.webp"}">Frappe</a></li>
-		<li><a href="${filesURL + "assets/macchiato.webp"}">Macchiato</a></li>
-		<li><a href="${filesURL + "assets/mocha.webp"}">Mocha</a></li>
-		<li><a href="${filesURL + "assets/catwalk.webp"}">Catwalk</a></li>
-	</ul>
+	<a href="${filesURL + "preview.webp"}">Catwalk Preview Image</a>
 </div>
 `;
   sidebar.append(actions);
