@@ -6,7 +6,7 @@
 // @grant       none
 // @downloadURL https://github.com/uncenter/ctp-userstyles-helper/raw/main/index.js
 // @homepageURL https://github.com/uncenter/ctp-userstyles-helper
-// @version     0.1.0
+// @version     0.1.1
 // @author      uncenter
 // @license     MIT
 // ==/UserScript==
